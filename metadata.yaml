@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Michelet
     - http://fr.wikipedia.org/wiki/Jules_Michelet
 description: Spanish translation of ''La Mer'' (1861)
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26284#El-Mar
 gutenberg_issued: '2008-08-12'
 gutenberg_type: Text
 identifiers:
